@@ -1,3 +1,5 @@
+# This program produces sequence of numbers where each term is given by describing the makeup of the previous term.
+
 # Yields the count of the current integer followed by the integer itself
 def counter(currentInteger)
 	j = 0
